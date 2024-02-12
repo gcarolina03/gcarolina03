@@ -4,7 +4,7 @@
     <img src="https://www.codewars.com/users/gcarolina03/badges/small" />
   </a>
 </p>
-<p>- 🔭 I’m currently working as a Jr. Full-Stack Developer @<a href="https://reboot.academy/">Reboot Academy</a></p>
+<p>- 🔭 I’m currently working as a Jr. Full-Stack Developer @<a href="https://cucunver.com/">Cucunver</a></p>
 <p>-🌱 Learning as much as I can about programming.</p>
 <p>- 📫 How to reach me: <b>carolinahrndez3@gmail.com</b></p>
 
