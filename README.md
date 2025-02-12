@@ -42,9 +42,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcarolina03&show_icons=true&theme=dark&title_color=8940e2&text_color=ffffff&locale=en&layout=compact" alt="gcarolina03" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gcarolina03&theme=dark" alt="gcarolina03" />
-</p>
 
 <!--
 **gcarolina03/gcarolina03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
