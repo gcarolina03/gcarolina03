@@ -4,7 +4,7 @@
     <img src="https://www.codewars.com/users/gcarolina03/badges/small" />
   </a>
 </p>
-<p>- 🔭 I’m currently working as a Jr. Full-Stack Developer @<a href="https://cucunver.com/">Cucunver</a></p>
+<p>- 🔭 I’m currently working as a Jr. Back-end Developer @<a href="https://cocosolution.com/en/">Coco Solution</a></p>
 <p>-🌱 Learning as much as I can about programming.</p>
 <p>- 📫 How to reach me: <b>carolinahrndez3@gmail.com</b></p>
 
@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="laravel" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
