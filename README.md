@@ -4,7 +4,7 @@
     <img src="https://www.codewars.com/users/gcarolina03/badges/small" />
   </a>
 </p>
-<p>- 🔭 I’m currently working as a Jr. Back-end Developer @<a href="https://cocosolution.com/en/">Coco Solution</a></p>
+<p>- 🔭 I’m currently working as Software Developer @<a href="https://b2bit.es/">B2Bit</a></p>
 <p>-🌱 Learning as much as I can about programming.</p>
 <p>- 📫 How to reach me: <b>carolinahrndez3@gmail.com</b></p>
 
